@@ -1,0 +1,21 @@
+header{
+    background-color: lightpink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+Section{
+background-color: moccasin;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 20px;
+}
+
+footer{
+    background-color: paleturquoise;
+    text-align: center;
+    padding: 10px;
+}
